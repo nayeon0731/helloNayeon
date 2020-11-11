@@ -1,6 +1,11 @@
 #include <stdio.h>
 
 void main() {
-	printf("¾È³ç ³ª¿¬ÀÌ\n");
-	printf("³Í ¸Ö¶óµµ´ë\n");
+	printf("ï¿½È³ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½\n");
+	printf("ï¿½ï¿½ ï¿½Ö¶óµµ´ï¿½\n");
+	printf("helloword");
+
+	for (int i=0; i<=10; i++){
+		printf("hello\n")
+	}
 }
